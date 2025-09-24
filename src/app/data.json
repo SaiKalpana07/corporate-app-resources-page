@@ -1,0 +1,66 @@
+{
+  "caseStudies": [
+    {
+      "id": "1",
+      "content": "Aziro (formerly MSys Technologies) Experts Managed To Create An Automated Recovery System Using Bugzilla and GIT.",
+      "image": "banner-1.jpg"
+    },
+    {
+      "id": "2",
+      "content": "Aziro (formerly MSys Technologies) Experts Managed To Create An Automated Recovery System Using Bugzilla and GIT.",
+      "image": "banner-2.jpg"
+    },
+    {
+      "id": "3",
+      "content": "Aziro (formerly MSys Technologies) Experts Managed To Create An Automated Recovery System Using Bugzilla and GIT.",
+      "image": "banner-3.jpg"
+    },
+    {
+      "id": "4",
+      "content": "Aziro (formerly MSys Technologies) Experts Managed To Create An Automated Recovery System Using Bugzilla and GIT.",
+      "image": "banner-4.jpg"
+    },
+    {
+      "id": "5",
+      "content": "Aziro (formerly MSys Technologies) Experts Managed To Create An Automated Recovery System Using Bugzilla and GIT.",
+      "image": "banner-5.jpg"
+    },
+    {
+      "id": "6",
+      "content": "Aziro (formerly MSys Technologies) Experts Managed To Create An Automated Recovery System Using Bugzilla and GIT.",
+      "image": "banner-6.jpg"
+    }
+  ],
+  "sideBar":[
+    
+    {
+      "id": "2",
+      "content": "White Papers"
+    },
+    {
+      "id": "3",
+      "content": "Infographics"
+    },
+    {
+      "id": "4",
+      "content": "eBooks"
+    },
+    {
+      "id": "5",
+      "content": "Articles"
+    },
+    {
+      "id": "6",
+      "content": "Brochures"
+    },
+    {
+      "id": "7",
+      "content": "Podcasts"
+    },
+    {
+      "id": "8",
+      "content": "Webinars"
+    }
+  ]
+
+}

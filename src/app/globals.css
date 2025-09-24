@@ -24,3 +24,17 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.popup {
+  position: relative;
+}
+
+.popup:after {
+  content: "";
+  border-top: 12px solid rgba(0, 0, 0, 0);
+  border-bottom: 10px solid rgba(0, 0, 0, 0);
+  border-left: 19px solid #2b50a1;
+  position: absolute;
+  top: 17px;
+  right: -15px;
+}
