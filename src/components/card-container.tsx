@@ -11,7 +11,7 @@ function Card() {
     <div>
       <div className="card-container grid grid-cols-1 md:grid-cols-2 gap-5">
         {caseStudies.map((c) => (
-          <div className="w-full bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700">
+          <div key={c.id} className="w-full bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700">
             <div>
               <a href="#">
                 <img
